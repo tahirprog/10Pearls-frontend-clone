@@ -224,4 +224,5 @@ body {
     box-sizing: border-box;
 }
 *, ::after, ::before {
-    box-sizing: border-bo
+    box-sizing: border-box; 
+}
