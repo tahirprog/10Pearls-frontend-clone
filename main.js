@@ -1,1 +1,1 @@
-
+getElementById("main").innerHTML = "HELLO";
