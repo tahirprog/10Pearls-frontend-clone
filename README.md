@@ -1,2 +1,2 @@
 # Coming Soon</>
-I am a lazy programer
+I am a lazy programmer
